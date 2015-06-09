@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipse Plug-in Poc
+Bundle-SymbolicName: gr.uoa.di.regas.eclipse.poc;singleton:=true
+Bundle-Version: 0.0.1.poc
+Bundle-Activator: gr.uoa.di.regas.eclipse.poc.Activator
+Bundle-Vendor: di.uoa.gr
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
