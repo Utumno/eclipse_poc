@@ -51,7 +51,7 @@
                id="gr.uoa.di.regas.eclipse.poc.toolbars.sampleToolbar">
             <command
                   commandId="gr.uoa.di.regas.eclipse.poc.commands.sampleCommand"
-                  icon="icons/sample.gif"
+                  icon="icons/sauron.gif"
                   tooltip="Say hello world"
                   id="gr.uoa.di.regas.eclipse.poc.toolbars.sampleCommand">
             </command>
